@@ -1,0 +1,19 @@
+/data/
+
+# Системные файлы
+.DS_Store
+Thumbs.db
+
+# Временные файлы
+*.tmp
+*.swp
+
+# Конфигурация IDE
+.vscode/
+.idea/
+*.iml
+
+# Зависимости
+node_modules/
+__pycache__/
+*.py[cod]
