@@ -1,4 +1,6 @@
 /data/
+notebooks/combined_file.csv
+combined_file.csv
 
 # Системные файлы
 .DS_Store
@@ -17,3 +19,5 @@ Thumbs.db
 node_modules/
 __pycache__/
 *.py[cod]
+
+*.csv
