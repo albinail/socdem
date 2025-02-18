@@ -1,5 +1,5 @@
 /data/
-notebooks/combined_file.csv
+/notebooks/combined_file.csv
 combined_file.csv
 
 # Системные файлы
@@ -9,6 +9,7 @@ Thumbs.db
 # Временные файлы
 *.tmp
 *.swp
+*.ipynb_checkpoints
 
 # Конфигурация IDE
 .vscode/
@@ -21,3 +22,5 @@ __pycache__/
 *.py[cod]
 
 *.csv
+
+/notebooks/.ipynb_checkpoints
